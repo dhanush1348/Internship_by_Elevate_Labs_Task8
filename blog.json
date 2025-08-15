@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Blog Title 1",
+        "description": "This is a short description of the first blog post.",
+        "image": "https://via.placeholder.com/350x200",
+        "link": "#"
+    },
+    {
+        "title": "Blog Title 2",
+        "description": "This is a short description of the second blog post.",
+        "image": "https://via.placeholder.com/350x200",
+        "link": "#"
+    },
+    {
+        "title": "Blog Title 3",
+        "description": "This is a short description of the third blog post.",
+        "image": "https://via.placeholder.com/350x200",
+        "link": "#"
+    }
+]
